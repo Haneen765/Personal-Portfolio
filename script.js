@@ -7,4 +7,4 @@ menuButton.addEventListener("click", function() {
     } else {
         navMenu.style.display = "flex";
     }
-});
+}); 
